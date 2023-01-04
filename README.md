@@ -1,4 +1,4 @@
-音乐下载器
+music download
 
 介绍 利用python开发的音乐下载器
 
