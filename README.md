@@ -7,4 +7,4 @@ music download
 
 音乐文件夹会在Music.py/Music Download.exe同一个目录下生成 
 
-本软件禁止用于商业用途
+
